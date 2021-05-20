@@ -1,0 +1,28 @@
+.title{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100%;
+    align-items: center;
+}
+
+.title_first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+img{
+    height: 80px;
+    margin-right: 20px;
+}
+
+.title_second{
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 3em;
+}

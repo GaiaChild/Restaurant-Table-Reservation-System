@@ -1,0 +1,43 @@
+.form{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background: white;
+    border-radius: 10px;
+    border: solid 1px black;
+    padding: 0 10px;
+    padding-right: 0;
+}
+
+input{
+    height: 20px;
+    border: none;
+    flex: 0.85;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    padding: 1px;
+}
+
+button{
+    height: 25px;
+    margin-left: 2px;
+    flex: 0.15;
+    border: none;
+    border-radius: 10px;
+    background: #bbf;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+b{
+    color: white;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+input:focus, button:focus{
+    border: none;
+    outline: none;
+}

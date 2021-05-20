@@ -1,0 +1,14 @@
+.customer{
+    text-align: center;
+    width: 100%;
+    height: 20px;
+    color: #3f3f3f;
+    font-size: 1.2em;
+    background: white;
+    border-radius: 10px;
+    border: solid 1px rgb(59, 126, 180);
+    margin: 5px 0;
+    padding: 3px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
